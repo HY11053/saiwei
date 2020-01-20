@@ -1,0 +1,13 @@
+body{ background:url(../images/bg4.jpg) repeat top center;}
+.mainNav{ background:#1DA3D0}
+.navHover{ background:#0D82AA}
+.hotNav{ background:#0093BE; height:80px; margin-bottom:20px; border-bottom:10px solid #007DB1;}
+.hotNav li a{ color:#FFF}
+.hotNav li{ height:69px;}
+.hot{ background:#F5F5F5}
+.ibg{ background:#1DA3D0; height:32px; margin-bottom:16px;}
+.newHover{ background:url(../images/ihov.png) no-repeat center center;}
+.inews>dl>dt>h2>span>a, .ivideo>dl>dt>h2>span>a, .itsfw>dl>dt>h2>span>a{ color:#000; font-size: 15px;}
+.b1{ background:url(../images/b1.jpg) no-repeat top center; padding-top:100px; height:910px; margin-top:-40px;}
+.b2{ background:url(../images/b2.jpg) no-repeat top center; padding-top:70px; height:562px; }
+.icy{ background:#FFF}

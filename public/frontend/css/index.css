@@ -1,0 +1,93 @@
+/*new ��ҳ*/
+.navHover{ background:#0D82AA}
+body {font-family:"微软雅黑", Arial;font-size:12px  }
+.islide{ width:350px;height:367px;}
+.inews{ width:460px; border:1px solid #ccc; height:365px;}
+.ibg{ background:url(../images/ibg.gif) repeat-x; height:49px;}
+.newHover{background:url(../images/ihov.gif); width:98px; height:32px; display:inline-block;text-align:center; line-height:32px;}
+.inews>dl>dt>h2,.ivideo>dl>dt>h2{ padding:10px 0 0 25px; }
+.inews>dl>dt>h2>span{width:98px; height:32px; display:inline-block;text-align:center}
+.inews>dl>dt>h2>span>a,.ivideo>dl>dt>h2>span>a,.itsfw>dl>dt>h2>span>a{color:#FFF; }
+.imedia{ height:100px;}
+
+.imediahumb{ width:150px; text-align: center}
+.imediacon{ width:300px; margin-left:10px; margin:2px 5px;}
+.imediacon h3 a{ color:#E7650A;font-size: 16px;}
+.imedia p{ line-height:25px;}
+.newlist ul{ margin:5px 0;}
+.newlist ul li{ margin:0 5px; height:30px; line-height:30px; border-bottom:1px dashed #ccc; clear: both;}
+
+.ivideo{ width:325px;  border:1px solid #ccc; height:255px;}
+.itsfw{ margin-top:10px;border:1px solid #ccc; overflow:hidden}
+.itsfw>dl>dt>h2{ height:49px; line-height:49px; text-align:center}
+.itsfw li{ background:url(../images/tsbg.gif) no-repeat; height:46px; border-bottom:1px solid #EBEBEB; line-height:46px;}
+.itsfw li span{ background:url(../images/d.gif) no-repeat; height:29px; width:25px; display:inline-block; margin-left:40px; margin-top:13px; position:absolute}
+.itsfw li a{ font-size:16px; font-weight:bold; padding-left:75px;}
+.jjjm{   border:1px solid #ccc;  margin-top:5px; width:810px; height:177px; background:#FFFFC8}
+.jj{ width:150px;}
+.jjhot{ width:658px; }
+.jmbg{ background:url(../images/jmbg.gif) repeat-x; height:40px; display: inline-block; border-radius:3px; border:1px solid #009EBA; line-height:40px; padding:0 10px; font-size:14px; margin-left:5px; margin-top:5px;}
+.jjsearch{ margin-top:15px; margin-left:10px;}
+.jjs{background:url(../images/jjs.gif) no-repeat; width:60px; height:35px; border:0; margin-left:10px; font-size:14px; color:#FFF; font-weight:bold; margin-right:20px;}
+
+/*��ҵ*/
+.icy{ height:370px; border:1px solid #ccc; margin-top:10px; overflow:hidden}
+.icychannel{ width:120px;}
+.icychannel ul li { height:60px; line-height:60px; text-align:center; font-size:18px; font-weight:bold; border-bottom:1px solid #ccc}
+.icychannelhover{ background:#FE6F00}
+.icychannelhover a{ color:#FFF}
+
+.icycon{ width:790px;}
+.icycon ul li{ width:262px; border-left:1px solid #ccc; float:left}
+.icycon ul li dl{ height:371px;}
+.icycon ul li dt{ text-align:center}
+.icycon ul li dd p{ line-height:25px; padding:0 5px; font-size:12px;}
+.icycp{ width:239px;border-left:1px solid #ccc; }
+
+.icyxdz{ height:50px; background:#FE6F00; line-height:50px; text-align:center; color:#FFF; font-size:16px; font-weight:bold}
+.icyxdz a{ color:#FFF}
+.icyxd ul li { height:25px; line-height:25px; border-bottom:1px dashed #ccc; margin:0 5px; overflow:hidden; font-size:12px;}
+
+/*��Ƶ*/
+.isp{ margin-top:20px; overflow:hidden}
+.isp ul li { width:275px; margin:0 5px; float:left}
+
+/*�ʴ�*/
+.iask{ margin-top:10px}
+.iaskcon{ height:365px; border:1px solid #ccc; margin-top:10px; overflow:hidden}
+
+.iaskleft{ width:260px;}
+.iaskleft dl dt{ background:#0A6C7F; height:55px; line-height:55px; font-size:16px; font-weight:bold; text-align:center; color:#FFF}
+.iaskleft dl dd{ background:#F3F9FF;}
+.iaskleft dl dd ul li{ height:51px; line-height:50px; font-size:16px; padding-left:20px; font-weight:bold; border-bottom:1px solid #ccc}
+.iaskcenter{ width:675px; margin:0 10px;}
+.iaskcenter ul li{ width:215px; float:left; border-bottom:1px solid #ccc; height:40px; line-height:40px; padding-left:10px;    text-overflow: ellipsis;
+    overflow: hidden;}
+.askright{ width:190px;}
+.icricle{height:190px; width:190px;border-radius:190px; border:1px solid #ccc; background:#FE7200; text-align:center; font-size:16px; color:#FFF; font-weight:bold; margin:0 auto}
+.icricle p{ margin-top:40px;}
+.iln dl dt{ height:50px; font-size:16px; font-weight:bold; text-align:center; background:#B4B3B3; line-height:50px;}
+.iln dl dd ul li{ height:30px; line-height:30px; border-bottom:1px solid #ccc; color:#575757}
+.iln dl dd ul li span{ font-size:16px; font-weight:bold; margin:0 10px; }
+/*shebei*/
+.isb{ margin-top:10px;}
+.isbcon{ margin-top:5px;border:1px solid #ccc; height:320px;    overflow: hidden;}
+.isbconleft{ width:260px; background:#F4F4F4; }
+.isbconleft div p{ font-size:16px; text-align:center; height:53px; line-height:23px;}
+.isbconright{ width:877px; margin-left:10px;}
+.isbchannel{ height:53px; background:url(../images/sbbg.gif) repeat-x;}
+.isbhover{ height:53px; background:url(../images/sbhover.gif) no-repeat; width:213px;}
+.isbchannel li{ font-size:16px; font-weight:bold; line-height:53px; text-align:center; float:left; width:213px;}
+.isbhover a{ color:#FFF}
+.isbpic { margin-top:5px;}
+.isbpic ul li{ float:left; width:213px; margin-left:5px;}
+
+/*ϴ�������*/
+.ishg{ margin-top:10px;}
+.ishgconleft{ width:160px; height:140px;}
+.ishgconleft li{ height:70px; line-height:70px; text-align:center; font-size:16px;}
+.ishgcon{ border:1px solid #ccc; margin-top:5px; overflow:hidden}
+.ishghover{ background:#008EA8}
+.ishghover a{ color:#FFF}
+.ishgconright{ width:966px; margin-left:10px;}
+.ishgconright ul li{ float:left; width:236px; margin-right:5px;}

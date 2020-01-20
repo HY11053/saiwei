@@ -1,0 +1,40 @@
+@charset "gb2312";
+/* CSS Document */
+/* 全局公共样式的设定 */
+body {font-family:"微软雅黑", Arial;}
+* {margin: 0;padding: 0;border: 0;}
+li, dl {list-style-type:none;}
+.clear {clear: both;}
+img {}
+.space{ height:10px; overflow:hidden;clear:both;}
+.spacet{ height:5px; overflow:hidden;clear:both;}
+img{ vertical-align: top;}
+.left{ float:left;}
+.right{ float:right;}
+.red{ color:#F00!important;}
+.red a{ color:#F00!important;}
+.red a:hover{ color:#F00!important;}
+a:link { color:#686868; text-decoration: none;}
+a:visited { text-decoration: none;color:#686868;}
+a:hover { text-decoration:none; color:#F00;}
+a:active {color:#000; text-decoration: none;}
+.grey{ color:#898989}
+.grey {
+    color: #898989!important;
+}
+.grey a {
+    color: #898989!important;
+}
+.grey a:hover {
+    color: #898989!important;
+}
+.black a {color: #000!important;}
+.black a:hover {color: #898989!important;}
+.yellow {color: #E7650A!important;}
+.yellow:hover {color: #000!important;}
+.ye14 { font-size:14px;color: #E7650A!important;}
+.ye14:hover { font-size:14px;color: #000!important;}
+.height{ height:5px;}
+.heightX{ height:10px;}
+.Headfixed{ position:fixed;   z-index:99999;top:0; left:0; }
+#LRfloater1{display:none;}
